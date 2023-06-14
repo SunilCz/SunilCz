@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilcz" alt="sunilcz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [sunilchaudhary1278.com.np](sunilchaudhary1278.com.np)
+- 👨‍💻 All of my projects are available at [sunilchaudhary1278.com.np](https://sunilchaudhary1278.com.np)
 
 - 📫 How to reach me **sunil.chaudhary7281@gmail.com**
 
